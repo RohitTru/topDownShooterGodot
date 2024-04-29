@@ -1,2 +1,7 @@
 res://player.tscn
 res://player.gd
+res://topDownShooter.tscn
+res://pine_tree.tscn
+res://characters/happy_boo/happy_boo.gd
+res://mob.tscn
+res://mob.gd
