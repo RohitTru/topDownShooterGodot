@@ -10,3 +10,4 @@ res://gun.gd
 res://bullet.gd
 res://bullet.tscn
 res://characters/slime/slime.tscn
+res://topDownShooter.gd
